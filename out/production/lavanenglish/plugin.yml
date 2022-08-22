@@ -1,0 +1,14 @@
+main: me.nozembr.Main
+name: LavaN
+version: 1.1
+commands:
+  lava:
+    description: See the plugin commands.
+    usage: /lava <Lavachallange mode>
+  lavaset:
+    description: Set all modes from the plugin.
+    usage: /lavaset <Lavachallange mode>
+  leave:
+    description: Exit from lavachallenge.
+  lvadmin:
+    description: See admin commands.

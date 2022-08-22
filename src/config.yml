@@ -1,0 +1,9 @@
+#Name of sign menu.
+NameMenu: '&7&lLava Challenge'
+#Sign of soup.
+Line1: '&6[Lava]'
+Line2: '&3Sopas'
+Line3: ''
+Line4: ''
+#Name of the soups in menu.
+NameSoup: '&4Sopa'

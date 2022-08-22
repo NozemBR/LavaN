@@ -1,0 +1,14 @@
+main: me.nozembr.Main
+name: LavaN
+version: 1.1
+commands:
+  lava:
+    description: Abre o menu do Lava Challenge.
+    usage: /lava <Nivel do Lava Challenge>
+  lavaset:
+    description: Seta uma Warp Do Lava Challenge.
+    usage: /lavaset <Nivel do Lava Challenge>
+  sair:
+    description: Sai do lavachallenge.
+  lvadmin:
+    description: Vê comandos de admin.

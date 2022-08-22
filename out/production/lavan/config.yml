@@ -1,0 +1,11 @@
+#Nome do Menu das placas de Sopas.
+NomeMenu: '&7&lLava Challenge'
+#Linhas das placas de Sopas.
+Linha1: '&6[Lava]'
+Linha2: '&3Sopas'
+Linha3: ''
+Linha4: ''
+#Nome das sopas do Menu de Sopas.
+NomeSopas: '&4Sopa'
+#Ativar Plugin de Sopa?
+PluginSopa: true
