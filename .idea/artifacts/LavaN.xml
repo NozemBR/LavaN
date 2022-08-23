@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="LavaN">
-    <output-path>$USER_HOME$/Pictures/kitpvp/plugins</output-path>
-    <root id="archive" name="LavaN.jar">
-      <element id="module-output" name="lavanenglish" />
-    </root>
-  </artifact>
-</component>
